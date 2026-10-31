@@ -3,6 +3,10 @@ JOPT翻訳 0.1.0 Beta — Apple Silicon / macOS 26.4以降
 Apple Intelligenceで動く、Mac用の翻訳・添削アプリの試用版です。
 App Storeを使わず、下のDMGを直接ダウンロードできます。
 
+**[DMGを直接ダウンロード](https://github.com/guildtiti/jopt-translate/releases/download/v0.1.0/JOPT-Translate-0.1.0-arm64.dmg)** · [リリースとZIP](https://github.com/guildtiti/jopt-translate/releases/tag/v0.1.0)
+
+このリポジトリはアプリのバイナリ配布用です。
+
 ### ダウンロード
 
 - **JOPT-Translate-0.1.0-arm64.dmg**：通常のインストール用
