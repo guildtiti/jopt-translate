@@ -1,6 +1,10 @@
-# JOPT翻訳 0.8.1 Beta
+# JOPT翻訳 0.8.2 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site)
+
+0.8.2では、ポーカー運営文の中国語の語義と、条件付きの確約を説明する解説を修正しました。初回解説と連続した追加質問も再測定しています。
+
+[運営文での実出力と残件](https://jopt-translate-mac.directors-ai.chatgpt.site/quality#operational-082)
 
 0.8.1では、端末内の架空文による動作チェックと、送信後のサーバー保存照合・失敗時の自動再試行を追加しました。管理者画面でも保存件数と任意提供の抽出対象件数を確認できます。品質改善・学習用提供は初期OFFのままです。
 
