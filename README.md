@@ -1,3 +1,13 @@
+# JOPT翻訳 0.10.0 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+アプリ内アップデートに対応しました。起動時と6時間ごとに新しい版を確認し、ボタンからダウンロード・インストール・再起動できます。自動確認は設定でオフにできます。更新ファイルと通知内容はEd25519署名で検証します。
+
+0.9.1以前の方は、この版を一度入れてください。以降はアプリ内で更新できます。履歴・設定は保持されます。Macから本人認証や権限の再登録を求められた場合は、画面に従って操作してください。
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳
 
 [ダウンロード・導入手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.9.1) · [ライセンス](https://jopt-translate-mac.directors-ai.chatgpt.site/licenses)
@@ -122,5 +132,7 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>

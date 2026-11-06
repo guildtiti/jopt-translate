@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>JOPT翻訳</title>
+        <item>
+            <title>0.10.0</title>
+            <pubDate>Fri, 06 Nov 2026 15:28:21 +0900</pubDate>
+            <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[アプリ内アップデートに対応しました。
+
+・新しい版が出たら、起動時と6時間ごとの確認でお知らせします。
+・「インストール」→「インストールして再起動」で更新できます。
+・設定 → このアプリについて、またはJOPT翻訳メニューから手動で確認できます。
+・自動確認は設定でオフにできます。本人の操作なしにインストールはしません。
+・更新ファイルとお知らせの署名を確認してから更新します。
+
+0.9.1以前をお使いの方は、この版を一度ダウンロードしてApplicationsのアプリを置き換えてください。以降はアプリ内で更新できます。
+]]></description>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.10.0/JOPT-Translate-0.10.0-arm64.zip" length="1808674875" type="application/octet-stream" sparkle:edSignature="sgqaoNCZfTwJs3tNhELseFR4tOAzXAyI1eMyfHXq9m2naqxrSkoeyJblUbgQ4+gaz+8+uYuoP1mb/M4eijnZCg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1pawAW1+FJoOaqaK+boL8XY1HQXGkGQknwIZ0DyZZj5NwuChmWwcYayhFW0TdgsjXKJyrK1oA60ZHRuaaECbBA==
+length: 2040
+-->
