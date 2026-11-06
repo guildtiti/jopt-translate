@@ -1,3 +1,17 @@
+# JOPT翻訳 0.8.8 Beta（build46）
+
+[ダウンロード・4ステップの使い方](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.8)
+
+初回導入の案内と起動画面を短くしました。Googleログイン後は「JOPT翻訳を開く」でMacへ戻れます。
+
+公開DMGの保存、Finderでの置き換え、macOSの起動許可、Apple Intelligenceの準備確認、初回Googleログイン、アプリへの復帰、例文のコピーと英訳、履歴同期をこのMacで確認しました。補足解説・別候補は生成できない例が残ります。
+
+未公証Betaです。保存履歴は運営管理者が閲覧できます。品質改善への提供は任意で、新規はオフです。別Macの初回起動と人のネイティブレビューは未実施です。
+
+以下は過去バージョンの記録です。
+
+---
+
 # JOPT翻訳 0.8.7 Beta（build45）
 
 [ダウンロード・使い方・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.7)
