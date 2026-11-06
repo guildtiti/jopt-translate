@@ -1,5 +1,22 @@
 # JOPT翻訳
 
+[ダウンロード・導入手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.9.0) · [ライセンス](https://jopt-translate-mac.directors-ai.chatgpt.site/licenses)
+
+翻訳はアプリに同梱したPLaMo 3 Translate 2B、ニュアンス解説・追加質問・添削はApple Intelligenceで処理します。翻訳モデルの追加ダウンロードや、別のLLMアプリの導入は不要です。DMGは約1.8GBです。
+
+中国語のテーブル運営・リエントリーの表現と、追加質問の短すぎる回答、語彙判定、質問の繰り返しを修正しました。通常試験86件、サーバー試験41件、最終バイナリの21枠と、配布DMGの最小環境8枠を確認しています。例文の一部は辞書・定型回答を含み、自由生成全体の品質保証ではありません。
+
+Built with PLaMo。PLaMo・llama.cpp・関連ソフトウェアのライセンスを同梱しています。非商用利用を前提とした配布で、用途に応じてPLaMoコミュニティライセンスを確認してください。
+
+Googleログインが必要です。保存履歴は自分の端末間で同期され、運営管理者が閲覧できます。品質改善・学習用提供は新規登録画面で初期ONですが、登録前・設定画面でOFFにできます。既存の設定は保持します。PLaMo由来の履歴は、学習用の自動抽出から除外しています。
+
+Apple Silicon / macOS 26.4以降。解説・追加質問にはApple Intelligenceの準備が必要です。Developer ID署名・Apple公証のない試用版です。別Macの初回起動と人のネイティブレビューは未実施です。
+
+<details><summary>過去のリリース記録</summary>
+
+# 0.8.9
+
+
 [ダウンロード・認証手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.9)
 
 Googleの確認コード・スマホ通知・パスキーと、Macの起動許可・権限登録・キーチェーン確認を、必要なときに開ける手順として案内しています。
@@ -8,7 +25,7 @@ Googleの確認コード・スマホ通知・パスキーと、Macの起動許�
 
 サーバー試験40件と、公開画面の提供ON/OFF、Mac再起動後のログイン・履歴保持、両権限を確認しました。未公証の試用版です。翻訳エンジンは変更していません。
 
-<details><summary>過去のリリース記録</summary>
+
 
 # JOPT翻訳 0.8.8 Beta（build46）
 
