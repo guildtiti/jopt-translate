@@ -4,11 +4,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.11.0</title>
-            <pubDate>Fri, 06 Nov 2026 18:03:36 +0900</pubDate>
+            <title>0.11.1</title>
+            <pubDate>Fri, 06 Nov 2026 18:19:16 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text">更新があると、翻訳画面とDockからわかるようになりました。
@@ -17,11 +17,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 設定は「保存」ボタンで反映するように変更しました。
 ランチャーモード、メモリ解放ボタン、動作チェックと不要な説明を削除しました。
 翻訳履歴とログインは引き継がれます。
+保存処理中は編集を止め、押した内容と保存結果がずれないようにしました。
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.11.0/JOPT-Translate-0.11.0-arm64.zip" length="1808667799" type="application/octet-stream" sparkle:edSignature="RcAXY6SD1EsqjnnbttS2/5+31X6C3l3xkI+SiMrZZ5zeQe59nySz8nx0OMtbbPYcxA7MngO6s5kLEj9S4IaqDA=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.11.1/JOPT-Translate-0.11.1-arm64.zip" length="1808668186" type="application/octet-stream" sparkle:edSignature="V7RtdDYrvMl10lv5zIn0oIsK0Rw86QbsLVGK6+XjfSWCpnmSKsrOp6r5QiklORJW2lSQZFzkyQSYoSjCvIHZBQ=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8kFM7F2IM4AsinkfjQ9ZXWQ1ALCsTtQ1codbho4+S0cPNRbaSpEkA4Llgns8JwxN+PF5psxpr6lA27yCE6tKBA==
-length: 2132
+edSignature: NttD07mbM/fDT0g/TMwaGkNETJ2dE05FxmXiGzmy3bPaNvpiwLZOwKwjYmNMAsYr4pp+D+9I7kFVLzsvI/laDw==
+length: 2245
 -->
