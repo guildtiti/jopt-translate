@@ -1,3 +1,19 @@
+# JOPT翻訳 0.8.7 Beta（build45）
+
+[ダウンロード・使い方・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.7)
+
+起動時の画面をログイン後と同じデザインへそろえました。ダウンロードページは、メール・資料・ポーカー運営の使いどころ、普段の生成AIとの使い分け、機能、DMGの導入手順を整理しています。
+
+このアプリもApple Intelligenceを使うAIアプリです。選択文・画面からの呼び出し、用語・文体の再利用、訳文と解説・候補・履歴を同じ場所で扱えることが利点です。汎用AIより高精度・高速という比較結果はありません。
+
+通常84件、配布DMGと作成者ファイルを読めない条件での5言語生成、このMacのログイン/履歴復元と両権限・通常翻訳を確認しました。公開ページからログインせずDMGを取得し、ハッシュを照合しています。未公証Betaで、通常はDMGをご利用ください。
+
+翻訳エンジンは0.8.6から変更していません。人のネイティブレビューと別Mac初回起動は未実施です。保存履歴は運営管理者が閲覧でき、品質改善への提供は任意・新規初期OFFです。
+
+以下は過去バージョンの記録です。
+
+---
+
 # JOPT翻訳 0.8.6 Beta（build44）
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [0.8.6の配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.6)
