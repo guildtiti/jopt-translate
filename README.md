@@ -1,3 +1,15 @@
+# JOPT翻訳
+
+[ダウンロード・認証手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.9)
+
+Googleの確認コード・スマホ通知・パスキーと、Macの起動許可・権限登録・キーチェーン確認を、必要なときに開ける手順として案内しています。
+
+品質改善・学習用データ候補への提供は、新規登録画面で初期ONです。提供対象を表示し、利用者が同意して登録を完了した後に適用します。ログイン前にOFFにでき、既存アカウントのOFF設定は再ログインでも変更しません。外部モデルへ学習データを送る処理は追加していません。
+
+サーバー試験40件と、公開画面の提供ON/OFF、Mac再起動後のログイン・履歴保持、両権限を確認しました。未公証の試用版です。翻訳エンジンは変更していません。
+
+<details><summary>過去のリリース記録</summary>
+
 # JOPT翻訳 0.8.8 Beta（build46）
 
 [ダウンロード・4ステップの使い方](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.8)
@@ -93,3 +105,5 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
