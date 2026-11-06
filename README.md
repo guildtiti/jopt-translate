@@ -1,3 +1,18 @@
+# JOPT翻訳 0.10.1 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+更新エラーの説明を日本語にしました。
+
+・署名を確認できない場合は、安全性を検証できなかった理由と、次に行う操作を日本語で案内します。
+・通信・保存先の権限・再起動のエラーにも、日本語の案内を表示します。
+・署名の検証と、不正な更新を拒否する処理は引き続き有効です。
+
+0.10.0をお使いの方は、このお知らせから更新できます。「アップデートをインストール」→「インストールして再起動」を選んでください。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.10.0 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -132,6 +147,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 
