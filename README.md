@@ -1,3 +1,17 @@
+# JOPT翻訳 0.11.0 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+更新があると、翻訳画面とDockからわかるようになりました。
+「今すぐアップデート」を1回押すと、ダウンロードから再起動まで進みます。
+設定から最新版を確認でき、何バージョン古いかも表示します。自動確認は12時間ごとです。
+設定は「保存」ボタンで反映するように変更しました。
+ランチャーモード、メモリ解放ボタン、動作チェックと不要な説明を削除しました。
+翻訳履歴とログインは引き継がれます。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.10.1 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -147,6 +161,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 

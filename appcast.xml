@@ -1,28 +1,27 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:jopt="https://jopt-translate-mac.directors-ai.chatgpt.site/updates" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.10.1</title>
-            <pubDate>Fri, 06 Nov 2026 17:12:07 +0900</pubDate>
+            <title>0.11.0</title>
+            <pubDate>Fri, 06 Nov 2026 18:03:36 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[更新エラーの説明を日本語にしました。
-
-・署名を確認できない場合は、安全性を検証できなかった理由と、次に行う操作を日本語で案内します。
-・通信・保存先の権限・再起動のエラーにも、日本語の案内を表示します。
-・署名の検証と、不正な更新を拒否する処理は引き続き有効です。
-
-0.10.0をお使いの方は、このお知らせから更新できます。「アップデートをインストール」→「インストールして再起動」を選んでください。
-]]></description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.10.1/JOPT-Translate-0.10.1-arm64.zip" length="1808878316" type="application/octet-stream" sparkle:edSignature="7rl5Wiz7ExQ2kq8tVDKhIf3jJK0HWGmgY4XONSUr4F1UIKRhqeelBi8+KI4UFeAe4uz141RMxOd1Ka6zRi/LDQ=="></enclosure>
-        </item>
+            <description sparkle:format="plain-text">更新があると、翻訳画面とDockからわかるようになりました。
+「今すぐアップデート」を1回押すと、ダウンロードから再起動まで進みます。
+設定から最新版を確認でき、何バージョン古いかも表示します。自動確認は12時間ごとです。
+設定は「保存」ボタンで反映するように変更しました。
+ランチャーモード、メモリ解放ボタン、動作チェックと不要な説明を削除しました。
+翻訳履歴とログインは引き継がれます。
+</description>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.11.0/JOPT-Translate-0.11.0-arm64.zip" length="1808667799" type="application/octet-stream" sparkle:edSignature="RcAXY6SD1EsqjnnbttS2/5+31X6C3l3xkI+SiMrZZ5zeQe59nySz8nx0OMtbbPYcxA7MngO6s5kLEj9S4IaqDA=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ElLUP7DzQGUXXFlpnq4UyX/qfR7SYAFfSVxii5S7A4AQ8uXUytH45nTyjRmsiV+GYJaKAxWt6Eako0aJ7ihUBg==
-length: 1891
+edSignature: 8kFM7F2IM4AsinkfjQ9ZXWQ1ALCsTtQ1codbho4+S0cPNRbaSpEkA4Llgns8JwxN+PF5psxpr6lA27yCE6tKBA==
+length: 2132
 -->
