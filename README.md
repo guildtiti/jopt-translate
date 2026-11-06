@@ -1,10 +1,10 @@
 # JOPT翻訳
 
-[ダウンロード・導入手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.9.0) · [ライセンス](https://jopt-translate-mac.directors-ai.chatgpt.site/licenses)
+[ダウンロード・導入手順](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.9.1) · [ライセンス](https://jopt-translate-mac.directors-ai.chatgpt.site/licenses)
 
 翻訳はアプリに同梱したPLaMo 3 Translate 2B、ニュアンス解説・追加質問・添削はApple Intelligenceで処理します。翻訳モデルの追加ダウンロードや、別のLLMアプリの導入は不要です。DMGは約1.8GBです。
 
-中国語のテーブル運営・リエントリーの表現と、追加質問の短すぎる回答、語彙判定、質問の繰り返しを修正しました。通常試験86件、サーバー試験41件、最終バイナリの21枠と、配布DMGの最小環境8枠を確認しています。例文の一部は辞書・定型回答を含み、自由生成全体の品質保証ではありません。
+中国語のテーブル運営・リエントリーの表現と、追加質問の短すぎる回答、語彙判定、質問の繰り返しを修正しました。リエントリーの受付禁止を受け入れ指示へ反転させる説明の検査も追加しています。通常試験86件、サーバー試験41件、最終build50バイナリの21枠と、配布DMGの最小環境8枠を確認しています。例文の一部は辞書・定型回答を含み、自由生成全体の品質保証ではありません。実画面の運営文1件は、文全体の解説を検証できず、用語説明だけの表示になりました。
 
 Built with PLaMo。PLaMo・llama.cpp・関連ソフトウェアのライセンスを同梱しています。非商用利用を前提とした配布で、用途に応じてPLaMoコミュニティライセンスを確認してください。
 
