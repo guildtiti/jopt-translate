@@ -1,3 +1,21 @@
+# JOPT翻訳 0.8.6 Beta（build44）
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/) · [0.8.6の配布ファイル](https://github.com/guildtiti/jopt-translate/releases/tag/v0.8.6)
+
+英語・韓国語・中国語と日本語の翻訳・解説を優先し、語彙・否定・条件・金額・前後関係の検査と、更新後の認証保存を改善しました。人のネイティブレビューと別Macの初回起動は未実施です。
+
+最終build44の実キー画面翻訳・3行114文字・主訳・別候補・初回解説・連続2問・完全終了後のログイン/会話保持・サーバー受信を確認しました。配布DMGは作成者のDocumentsや履歴を読めない条件でも試験しています。同じMacを使った試験であり、全Macでの動作保証ではありません。
+
+[重点言語の対照資料と確認範囲](https://jopt-translate-mac.directors-ai.chatgpt.site/quality#major-languages-086)。232枠は過去全体と修正部分の再測定と実パッケージの記録を組み合わせた資料で、全件を最終版で再生成した結果ではありません。重複・直訳調・韓国語の条件引用の語調は残件です。
+
+Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュを照合しました。ZIPはChromeの警告で停止したため、導入にはDMGをご利用ください。Developer ID署名・Apple公証のない試用版です。
+
+保存履歴は運営管理者が閲覧できます。品質改善・学習用提供は任意で、新規アカウントは初期OFFです。既存設定は変更していません。
+
+以下は過去バージョンの記録です。
+
+---
+
 # JOPT翻訳 0.8.5 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site)
