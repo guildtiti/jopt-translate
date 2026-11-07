@@ -1,3 +1,23 @@
+# JOPT翻訳 0.12.0 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+音声入力を追加しました。
+
+・押している間だけ録音する「押して話す」
+・クリックで開始し、もう一度クリックすると止まる連続録音
+・2方式それぞれに好きなショートカットを設定可能（初期状態は未設定）
+・日本語、英語、韓国語、中国語の話す言語を選択
+・翻訳する文章と、訳への追加質問に音声で入力
+・録音中の時間とマイク入力レベルを表示
+・声向けの雑音抑制と音量自動調整を初期ON。設定で切替可能
+・使用中のマイクと雑音抑制の状態を表示
+
+文字を確認してから、翻訳・質問を送れます。音声ファイルは保存せず、文字起こしはこのMacで処理します。初回はマイクの許可と、選択した言語の音声認識データの準備が必要です。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.11.1 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -176,6 +196,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 
