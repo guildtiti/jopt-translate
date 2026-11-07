@@ -4,30 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.12.0</title>
-            <pubDate>Sat, 07 Nov 2026 17:04:46 +0900</pubDate>
+            <title>0.12.1</title>
+            <pubDate>Sat, 07 Nov 2026 18:32:13 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text">音声入力を追加しました。
+            <description sparkle:format="plain-text">音声入力を、それぞれの入力欄の下へ移しました。
 
-・押している間だけ録音する「押して話す」
-・クリックで開始し、もう一度クリックすると止まる連続録音
-・2方式それぞれに好きなショートカットを設定可能（初期状態は未設定）
-・日本語、英語、韓国語、中国語の話す言語を選択
-・翻訳する文章と、訳への追加質問に音声で入力
-・録音中の時間とマイク入力レベルを表示
-・声向けの雑音抑制と音量自動調整を初期ON。設定で切替可能
-・使用中のマイクと雑音抑制の状態を表示
+・原文、次の翻訳、追加質問の欄に「押して話す」「クリックで録音」を配置
+・入力先の切り替え操作を省き、押した欄へそのまま入力
+・録音中の表示や停止ボタンも同じ欄にまとめて表示
 
-文字を確認してから、翻訳・質問を送れます。音声ファイルは保存せず、文字起こしはこのMacで処理します。初回はマイクの許可と、選択した言語の音声認識データの準備が必要です。
+ショートカット・雑音抑制・話す言語の設定は引き継ぎます。
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.0/JOPT-Translate-0.12.0-arm64.zip" length="1808774835" type="application/octet-stream" sparkle:edSignature="Az62aCv0cgIliySNQ6QihrmVwGkffBRW34lCaPIgjxChi8cAbuHRTTp1qp2gwDLXRtNf6p6UKNF8SNMW+1MaCw=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.1/JOPT-Translate-0.12.1-arm64.zip" length="1808777266" type="application/octet-stream" sparkle:edSignature="C6chzdV6KmcvZQcLg4mvjFBzEcby8semgRA4eu9C2jJ5DQIdQK3P+N2vq6m/iSRGpJced3d6IbVE6oZHK+7DCQ=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CBJKzajJkpHaA1R9tnSW0Z8dWPfUlNy3lOWHPbKD+dOEKbeI/yVAFnBW7LUDvAlEFPIGi396Ui33/fkrwa4/Dw==
-length: 2457
+edSignature: 6wyJh2zypWkk/D9z/izn0V4XX2aL8bxZKLek7cfcHbH/tWWP91HXYicSqfbK26Vgo3EnbOfEuXGyepWDDm1PCQ==
+length: 2006
 -->
