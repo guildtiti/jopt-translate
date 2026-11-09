@@ -1,3 +1,18 @@
+# JOPT翻訳 0.12.2 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+Enterで改行、⌘＋Enterで翻訳・送信できるようにしました。
+
+・原文、次の翻訳、追加質問、返信・追記、文脈の入力欄で改行に対応
+・⌘＋Enterは、いま入力している欄の翻訳・送信に使用
+・日本語の変換中や、空欄・処理中・録音中の誤送信を防止
+
+音声入力・ショートカット・履歴の設定は引き継ぎます。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.12.1 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -211,6 +226,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 

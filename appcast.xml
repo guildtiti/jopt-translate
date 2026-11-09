@@ -4,25 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.12.1</title>
-            <pubDate>Sat, 07 Nov 2026 18:32:13 +0900</pubDate>
+            <title>0.12.2</title>
+            <pubDate>Mon, 09 Nov 2026 10:33:59 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text">音声入力を、それぞれの入力欄の下へ移しました。
+            <description sparkle:format="plain-text">Enterで改行、⌘＋Enterで翻訳・送信できるようにしました。
 
-・原文、次の翻訳、追加質問の欄に「押して話す」「クリックで録音」を配置
-・入力先の切り替え操作を省き、押した欄へそのまま入力
-・録音中の表示や停止ボタンも同じ欄にまとめて表示
+・原文、次の翻訳、追加質問、返信・追記、文脈の入力欄で改行に対応
+・⌘＋Enterは、いま入力している欄の翻訳・送信に使用
+・日本語の変換中や、空欄・処理中・録音中の誤送信を防止
 
-ショートカット・雑音抑制・話す言語の設定は引き継ぎます。
+音声入力・ショートカット・履歴の設定は引き継ぎます。
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.1/JOPT-Translate-0.12.1-arm64.zip" length="1808777266" type="application/octet-stream" sparkle:edSignature="C6chzdV6KmcvZQcLg4mvjFBzEcby8semgRA4eu9C2jJ5DQIdQK3P+N2vq6m/iSRGpJced3d6IbVE6oZHK+7DCQ=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.2/JOPT-Translate-0.12.2-arm64.zip" length="1808766073" type="application/octet-stream" sparkle:edSignature="ac0OeL0SIjIceWypcglOYPdICly4zmo72089GqWk8zqYcU0uFi3ml95WWP+ClWLSV5SdqPGNhbJVTUL3z75cDA=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6wyJh2zypWkk/D9z/izn0V4XX2aL8bxZKLek7cfcHbH/tWWP91HXYicSqfbK26Vgo3EnbOfEuXGyepWDDm1PCQ==
-length: 2006
+edSignature: Ua2NOHxjGRabAIQT1AYJURyt4nCV24jVrdbOikDoRCuozYUB9/uSqgVA/BQ9G+5uWLOGSN/a/F2tvyWxpKn8CQ==
+length: 2013
 -->
