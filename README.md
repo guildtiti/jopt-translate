@@ -1,3 +1,20 @@
+# JOPT翻訳 0.12.3 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+数値保持チェックと、ことばの解説・別候補を改善しました。
+
+・「line one」の訳や「the final one」のような代名詞を、数値の変更として誤判定する問題を修正
+・解説の文末欠け、同じ意味の重複、形容詞を名詞の意味で説明するずれを修正
+・原文と訳文を対にして参照し、文脈に合う語義の判断を補強
+・時刻・金額を保持したまま、英語・韓国語・中国語・日本語の文体を変える処理を改善
+・本文にない情報についての追加質問を、根拠のない回答として誤って拒否する問題を改善
+
+Enterで改行、⌘＋Enterで送信する操作と、既存の設定・履歴は引き継ぎます。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.12.2 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -226,6 +243,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 
