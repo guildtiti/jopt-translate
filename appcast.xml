@@ -4,27 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.12.3</title>
-            <pubDate>Mon, 09 Nov 2026 12:22:10 +0900</pubDate>
+            <title>0.12.4</title>
+            <pubDate>Mon, 09 Nov 2026 16:35:27 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>0.12.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text">数値保持チェックと、ことばの解説・別候補を改善しました。
+            <description sparkle:format="plain-text">原文をそのまま編集できるようにしました。
 
-・「line one」の訳や「the final one」のような代名詞を、数値の変更として誤判定する問題を修正
-・解説の文末欠け、同じ意味の重複、形容詞を名詞の意味で説明するずれを修正
-・原文と訳文を対にして参照し、文脈に合う語義の判断を補強
-・時刻・金額を保持したまま、英語・韓国語・中国語・日本語の文体を変える処理を改善
-・本文にない情報についての追加質問を、根拠のない回答として誤って拒否する問題を改善
+・翻訳後も同じ入力欄を表示し、「編集」を押す操作を廃止
+・「クリア」で入力・表示中の訳文・解説・会話をまとめてリセット
+・編集した文章は「翻訳を更新」または⌘＋Enterで再翻訳
+・Enterで改行する操作、保存済みの履歴、言語・文体・文脈は維持
+・音声入力も同じ原文欄へ入力
 
-Enterで改行、⌘＋Enterで送信する操作と、既存の設定・履歴は引き継ぎます。
+クリアしても、保存済みの履歴は削除されません。
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.3/JOPT-Translate-0.12.3-arm64.zip" length="1809082107" type="application/octet-stream" sparkle:edSignature="Q1mUBwW7e+/cWiOUr+1Q+Sn2/gJqnuCM1uwTHV7WseS9DpBbNbbfYQp9rm01iBxM6xxaJUmj42JZVvsf1G4HBg=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.4/JOPT-Translate-0.12.4-arm64.zip" length="1808855615" type="application/octet-stream" sparkle:edSignature="SrD3V0L+F9IF3ftRTJuOw31W5Tn8Pl41FUAL+W5zP6FUi+Xoq/I0BrHc2wOmggw0vHzO4s+IAyMJ5jQEvT4SCA=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3,0.12.4</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hojPVIyU68iHemQ2FMzNV9nTE6vq6OtCe9nSLsyMb1JhwKGDtfTDP+Uwt90tEOLW6RO2saUVSpnByCl+0xQfDQ==
-length: 2362
+edSignature: iFUoHG2xI/SyX7AVJhwZdUKLH3kuYTd4/reamGVfCjtNDIPC5ZvXe2wsXCtEsYaRGDUQE8SS9Uq001VnQf27Cw==
+length: 2132
 -->

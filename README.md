@@ -1,3 +1,20 @@
+# JOPT翻訳 0.12.4 Beta
+
+[ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
+
+原文をそのまま編集できるようにしました。
+
+・翻訳後も同じ入力欄を表示し、「編集」を押す操作を廃止
+・「クリア」で入力・表示中の訳文・解説・会話をまとめてリセット
+・編集した文章は「翻訳を更新」または⌘＋Enterで再翻訳
+・Enterで改行する操作、保存済みの履歴、言語・文体・文脈は維持
+・音声入力も同じ原文欄へ入力
+
+クリアしても、保存済みの履歴は削除されません。
+
+
+<details><summary>過去の記録</summary>
+
 # JOPT翻訳 0.12.3 Beta
 
 [ダウンロード・導入ガイド](https://jopt-translate-mac.directors-ai.chatgpt.site/)
@@ -243,6 +260,8 @@ Chromeシークレットで主配布DMGとSHA一覧を取得してハッシュ�
 Apple Silicon / macOS26.4以降 / Apple Intelligence / Googleログインが必要です。Developer ID署名・Apple公証のないBetaです。更新で権限の再登録が必要になる場合があります。別Mac初回起動・人のネイティブレビューは未実施です。
 
 [利用規約・プライバシー](https://jopt-translate-mac.directors-ai.chatgpt.site/terms) · [実出力とレビュー用CSV](https://jopt-translate-mac.directors-ai.chatgpt.site/quality)
+
+</details>
 
 </details>
 
