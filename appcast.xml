@@ -4,11 +4,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.13.1</title>
-            <pubDate>Tue, 10 Nov 2026 14:34:45 +0900</pubDate>
+            <title>0.13.2</title>
+            <pubDate>Tue, 10 Nov 2026 16:14:16 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text">小さいウインドウでも訳文を広く読めるよう、原文欄と結果のスクロールを整理しました。
@@ -25,11 +25,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ・Googleログイン後は、アプリに表示された8桁コードでMacとの接続を確認
 ・更新後のキーチェーン確認で待ち続ける場合の再ログイン導線を改善
 ・ログイン前の更新通知が二重に表示される問題を修正
+・ログイン中のコード選択・コードコピー・コピー結果の表示を改善
+・原文にある受付時刻を未記載とする追加質問の誤回答を防止
+・追加質問で余分な出典表記を未完結文と誤判定する問題を修正
+・会話画面の重複説明と未使用の更新用状態を整理
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.13.1/JOPT-Translate-0.13.1-arm64.zip" length="1809023323" type="application/octet-stream" sparkle:edSignature="4Vt63OE9UCZf5E4p2t7I0gG4FZZxr9+/JVd84fYyMzkEK5IUBJWMNziNTWzb5h27UbTTh16BoE9BiNgnJRsHCQ=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3,0.12.4,0.13.0,0.13.1</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.13.2/JOPT-Translate-0.13.2-arm64.zip" length="1809096995" type="application/octet-stream" sparkle:edSignature="PTbmcmDwwEkNDuIWHapMPVRwgGbmaveOSEHV/lLXGuQlu2rKl6VCiaX+udOXC1EgtckStMj98CJT/QKiSEpUBg=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3,0.12.4,0.13.0,0.13.1,0.13.2</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XZqIBjzYj5tlCeLsyunM8ZW5xyKXgQKRRsdUPgVbJ5hzqZL4z1A5/vIe+Z6Cxg6h54Zx9CwD7sIbSjlIyOo8Aw==
-length: 2730
+edSignature: AZmyFjMDEoSzPcRluckf3jR04mtH1m/cgCq+eqJ//blwTQ11sjKgvReB02rsUbrlYkrhyYRY/3HKNSrP1/7zCA==
+length: 3074
 -->
