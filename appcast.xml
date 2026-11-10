@@ -4,27 +4,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>JOPT翻訳</title>
         <item>
-            <title>0.12.4</title>
-            <pubDate>Mon, 09 Nov 2026 16:35:27 +0900</pubDate>
+            <title>0.13.0</title>
+            <pubDate>Tue, 10 Nov 2026 13:31:31 +0900</pubDate>
             <link>https://jopt-translate-mac.directors-ai.chatgpt.site/</link>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>0.12.4</sparkle:shortVersionString>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text">原文をそのまま編集できるようにしました。
+            <description sparkle:format="plain-text">小さいウインドウでも訳文を広く読めるよう、原文欄と結果のスクロールを整理しました。
 
-・翻訳後も同じ入力欄を表示し、「編集」を押す操作を廃止
-・「クリア」で入力・表示中の訳文・解説・会話をまとめてリセット
-・編集した文章は「翻訳を更新」または⌘＋Enterで再翻訳
-・Enterで改行する操作、保存済みの履歴、言語・文体・文脈は維持
-・音声入力も同じ原文欄へ入力
-
-クリアしても、保存済みの履歴は削除されません。
+・設定の重複説明を整理し、スイッチと履歴の読み上げを改善
+・クリアや履歴切り替え後に、古い解説が戻る競合を修正
+・翻訳時の文脈を履歴へ正しく保存
+・録音中の生成操作を防ぎ、録音停止の操作を改善
+・ファイル読取と画面範囲選択の中止処理を改善
+・翻訳プロセスの終了管理と用語・数値の検査を改善
+・全文解説で、料金・時刻・禁止条件などの省略を防ぐ検査を追加
+・辞書候補の語義を文脈で確かめられない場合は、原文に基づく全文説明を表示
+・韓国語・中国語の時刻の助詞と、受付開始を表す英語を調整
+・Googleログイン後は、アプリに表示された8桁コードでMacとの接続を確認
+・更新後のキーチェーン確認で待ち続ける場合の再ログイン導線を改善
 </description>
-            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.12.4/JOPT-Translate-0.12.4-arm64.zip" length="1808855615" type="application/octet-stream" sparkle:edSignature="SrD3V0L+F9IF3ftRTJuOw31W5Tn8Pl41FUAL+W5zP6FUi+Xoq/I0BrHc2wOmggw0vHzO4s+IAyMJ5jQEvT4SCA=="></enclosure>
-        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3,0.12.4</jopt:versions></item>
+            <enclosure url="https://github.com/guildtiti/jopt-translate/releases/download/v0.13.0/JOPT-Translate-0.13.0-arm64.zip" length="1809023437" type="application/octet-stream" sparkle:edSignature="DieN3c/sam0IOmeehRnLPyNMokTKTTfhMc8fpVg+JY0zb0pso8wV8XwW2JuqySgsOB9TakGQX4pVtGsmwAPkAA=="></enclosure>
+        <jopt:versions>0.1.0,0.2.1,0.3.0,0.4.0,0.4.1,0.5.0,0.5.1,0.6.0,0.7.0,0.7.1,0.7.2,0.8.0,0.8.1,0.8.2,0.8.3,0.8.4,0.8.5,0.8.6,0.8.7,0.8.8,0.8.9,0.9.1,0.10.0,0.10.1,0.11.0,0.11.1,0.12.0,0.12.1,0.12.2,0.12.3,0.12.4,0.13.0</jopt:versions></item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iFUoHG2xI/SyX7AVJhwZdUKLH3kuYTd4/reamGVfCjtNDIPC5ZvXe2wsXCtEsYaRGDUQE8SS9Uq001VnQf27Cw==
-length: 2132
+edSignature: m3Z0sm7GqCdC7HErqJtNJoaMALEzINaMS2b4vlrqISVWD9dAXccovTaThJX550mrvIeAdomYwFanJUrt7KBHCQ==
+length: 2647
 -->
